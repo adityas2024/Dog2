@@ -18,7 +18,7 @@ public class driver {
         dog2.Bday();
         dog2.Bday();
         dog2.Bday();
-
+        dog2.Bday();
         System.out.println(dog2.toString());
 
         Owner Alex = new Owner("Alex", "Corso vito 12", "335 382 1352", 21);
